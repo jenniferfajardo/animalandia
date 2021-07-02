@@ -1,0 +1,30 @@
+header{
+	background-color: #FFFFFF;
+	padding: 10px;
+}
+
+.logo img{
+	max-width: 250px;
+}
+.btn-info {
+  color: #000;
+  background-color: #00B2B1;
+  border-color: #00B2B1;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+.btn-info:hover {
+  color: #000;
+  background-color: #FFFFFF	;
+  border-color: #25cff2;
+}
+.btn-morado {
+  color: #752995;
+  border-color: #752995;
+  font-weight: bold;
+}
+.btn-morado:hover {
+  color: #FFFFFF;
+  background-color: #752995;
+  border-color: #752995;
+}

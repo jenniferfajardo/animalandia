@@ -1,0 +1,28 @@
+.titulos{
+	color: #752995;
+	font-weight: bolder;
+	text-shadow: 2px 2px 3px #000000;
+	text-align: center;
+	margin: 10px auto;
+}
+#servicios hr{
+	border:2px solid #00B2B1;
+	width: 15%;
+	margin: 10px auto;
+}
+.card{
+	border: 0;
+    text-align: center;
+}
+.card-title {
+    margin-bottom: 0.5rem;
+    text-align: center;
+    color: #752995;
+}
+.card img{
+    max-width: 250px;
+    width: 100%;
+}
+.card-body{
+    text-align: center;
+}
