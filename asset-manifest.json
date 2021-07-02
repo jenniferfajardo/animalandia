@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/animalandia/static/css/main.b4757186.chunk.css",
+    "main.js": "/animalandia/static/js/main.18d762b6.chunk.js",
+    "main.js.map": "/animalandia/static/js/main.18d762b6.chunk.js.map",
+    "runtime-main.js": "/animalandia/static/js/runtime-main.95a15df5.js",
+    "runtime-main.js.map": "/animalandia/static/js/runtime-main.95a15df5.js.map",
+    "static/js/2.f3c10e0f.chunk.js": "/animalandia/static/js/2.f3c10e0f.chunk.js",
+    "static/js/2.f3c10e0f.chunk.js.map": "/animalandia/static/js/2.f3c10e0f.chunk.js.map",
+    "index.html": "/animalandia/index.html",
+    "static/css/main.b4757186.chunk.css.map": "/animalandia/static/css/main.b4757186.chunk.css.map",
+    "static/js/2.f3c10e0f.chunk.js.LICENSE.txt": "/animalandia/static/js/2.f3c10e0f.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/animalandia/static/media/fondo.6732ce65.jpg",
+    "static/media/logo.8bba2df5.jpg": "/animalandia/static/media/logo.8bba2df5.jpg",
+    "static/media/paciente.204a13b4.png": "/animalandia/static/media/paciente.204a13b4.png",
+    "static/media/vacunacion.eef4131b.png": "/animalandia/static/media/vacunacion.eef4131b.png",
+    "static/media/veterinario.8ce5bb60.png": "/animalandia/static/media/veterinario.8ce5bb60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a15df5.js",
+    "static/js/2.f3c10e0f.chunk.js",
+    "static/css/main.b4757186.chunk.css",
+    "static/js/main.18d762b6.chunk.js"
+  ]
+}
