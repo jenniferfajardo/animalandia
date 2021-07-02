@@ -20,7 +20,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
 
-    <Router basename={ProcessingInstruction.env.PUBLIC_URL}>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path="/home">
             <Home />
