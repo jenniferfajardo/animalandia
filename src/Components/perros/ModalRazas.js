@@ -16,7 +16,7 @@ function ModalRazas(props) {
             </div>
 
             <div className="col-8">
-               <strong>Acerca de </strong> <p className="saltos" dangerouslySetInnerHTML={{ __html: props.pm3}}></p>
+               <strong>Acerca de </strong> <p dangerouslySetInnerHTML={{ __html: props.pm3}}></p>
             </div>
           
         </div>
